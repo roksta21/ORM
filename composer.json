@@ -1,6 +1,6 @@
 {
     "name": "roksta/orm",
-    "description": "Just a file based database.",
+    "description": "Just a file based database using object relational mapping.",
     "license": "MIT",
     "type": "project",
     "autoload": {
