@@ -1,5 +1,5 @@
 {
-    "name": "roksta/ORM",
+    "name": "roksta/orm",
     "description": "Just a file based database.",
     "license": "MIT",
     "type": "project",
